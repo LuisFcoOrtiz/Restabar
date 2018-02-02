@@ -45,4 +45,4 @@ Algunas capturas
 ![camarer](https://user-images.githubusercontent.com/8844134/35748969-37ff226e-0850-11e8-9528-bd5702869015.png)
 
 
-# Trabajo realizado junto a (https://github.com/ObisNoBlan) para la asignatura programacin dispositivos móviles del ciclo superior (DAM)
+### Trabajo realizado junto a (https://github.com/ObisNoBlan) para la asignatura programacin dispositivos móviles del ciclo superior (DAM)
