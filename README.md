@@ -12,7 +12,7 @@ La app y la web actuan completamente en tiempo real, trabajan con un servidor qu
 * Linux (Ubuntu)
 * Apache2
 * MySQL
-  * Vistas y triggers para optimización de la BD
+  * Vistas y triggers para optimización de la BD (restabar.sql)
 * PHP
   * FPDF Library
 * Bootstrap
