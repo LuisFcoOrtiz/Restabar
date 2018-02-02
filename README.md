@@ -14,7 +14,7 @@ La app y la web actuan completamente en tiempo real, trabajan con un servidor qu
 * MySQL
   * Vistas y triggers para optimización de la BD
 * PHP
- *FPDF Library
+  *FPDF Library
 * Bootstrap
 * Backups de archivos mediante scripts Bash
 * Servicios web (POST y GET) para acciones desde la APP Android con PHP (directorio /restabar/querys)
