@@ -1,4 +1,6 @@
 # Restabar
+![icono](https://user-images.githubusercontent.com/8844134/35749327-7e26f0b8-0851-11e8-8427-5e09843b38e3.png)
+
 Restabar | Aplicación Android y web para la gestion de Comandas y camareros de un bar
 ## Objetivo:
 Gestion de comandas de un establecimiento de restauración mediante APP Android y Web.
@@ -12,6 +14,8 @@ La app y la web actuan completamente en tiempo real, trabajan con un servidor qu
 * MySQL
   * Vistas y triggers para optimización de la BD
 * PHP
+ *FPDF Library
+* Bootstrap
 * Backups de archivos mediante scripts Bash
 * Servicios web (POST y GET) para acciones desde la APP Android con PHP (directorio /restabar/querys)
 
