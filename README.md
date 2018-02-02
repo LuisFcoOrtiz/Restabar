@@ -1,5 +1,5 @@
 # Restabar
-![icono](https://user-images.githubusercontent.com/8844134/35749327-7e26f0b8-0851-11e8-8427-5e09843b38e3.png)
+![captura de pantalla de 2018-02-02 19-46-01](https://user-images.githubusercontent.com/8844134/35749408-bf729aae-0851-11e8-9cd3-a4fae4c4375c.png)
 
 Restabar | Aplicación Android y web para la gestion de Comandas y camareros de un bar
 ## Objetivo:
